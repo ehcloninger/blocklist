@@ -1,9 +1,9 @@
-msmonplat.trafficmanager.net
-cdn.spotxcdn.com
-msmonplat.trafficmanager.net
-cdn.spotxcdn.com
-ads.api.vungle.com
-fp.msedge.net
-v20.events.data.microsoft.com
-cdn.adnxs.com
-widgets.outbrain.com
+127.0.0.1 msmonplat.trafficmanager.net
+127.0.0.1 cdn.spotxcdn.com
+127.0.0.1 msmonplat.trafficmanager.net
+127.0.0.1 cdn.spotxcdn.com
+127.0.0.1 ads.api.vungle.com
+127.0.0.1 fp.msedge.net
+127.0.0.1 v20.events.data.microsoft.com
+127.0.0.1 cdn.adnxs.com
+127.0.0.1 widgets.outbrain.com

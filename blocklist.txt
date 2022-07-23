@@ -7,3 +7,7 @@
 127.0.0.1 v20.events.data.microsoft.com
 127.0.0.1 cdn.adnxs.com
 127.0.0.1 widgets.outbrain.com
+127.0.0.1 api.branch.io
+127.0.0.1 api2.branch.io
+127.0.0.1 ads.samsung.com
+127.0.0.1 adgear.com

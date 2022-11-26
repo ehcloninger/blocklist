@@ -11,3 +11,10 @@
 127.0.0.1 api2.branch.io
 127.0.0.1 ads.samsung.com
 127.0.0.1 adgear.com
+127.0.0.1 scribe.logs.roku.com
+127.0.0.1 midland.logs.roku.com
+127.0.0.1 austin.logs.roku.com
+127.0.0.1 cooper.logs.roku.com
+127.0.0.1 liberty.logs.roku.com
+127.0.0.1 display.ravm.tv
+127.0.0.1 ravm.tv

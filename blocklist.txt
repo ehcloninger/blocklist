@@ -18,3 +18,12 @@
 127.0.0.1 liberty.logs.roku.com
 127.0.0.1 display.ravm.tv
 127.0.0.1 ravm.tv
+127.0.0.1 ads.api.vungle.com
+127.0.0.1 ads.aerserv.com
+127.0.0.1 adx.ads.vungle.com
+127.0.0.1 cdn-lb.vungle.com
+127.0.0.1 cdn-f.adsmoloco.com
+127.0.0.1 mcg-ads.inmobi.com
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 googleads4.g.doubleclick.net
+127.0.0.1 aax-us-east.amazon-adsystem.com

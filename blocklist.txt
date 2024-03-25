@@ -27,3 +27,8 @@
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 googleads4.g.doubleclick.net
 127.0.0.1 aax-us-east.amazon-adsystem.com
+127.0.0.1 tvpnlogopus.samsungcloud.tv
+127.0.0.1 img-resize-cdn-prod.samsungnyc.com	
+127.0.0.1 scs.samsungqbe.com	
+127.0.0.1 logs.netflix.com
+127.0.0.1 
